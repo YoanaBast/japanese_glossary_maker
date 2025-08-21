@@ -1,4 +1,4 @@
-I want to create glossaries quickly and with minimal effort, but ChatGPT (at least the free version) doesn’t extract text very well, so I spent hours automating the process! :)
+Glossary Maker >>
 
 You can choose to add words to 2 json files:
 1. db.json: this holds the words in the glossary, they are also accessible in result.txt in a clean form, ready for export. 
