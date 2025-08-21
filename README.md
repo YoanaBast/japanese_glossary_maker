@@ -9,3 +9,5 @@ You can choose to add words to 2 json files:
 
 How to use:
 the janome lib needs to be installed for this code to run, it's a console program, so run on terminal/IDE
+
+I will add delete words/clear db options later, for now it's manual 
