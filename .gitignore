@@ -44,8 +44,9 @@ coverage.xml
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
-# VSCode settings
+# IDE settings
 .vscode/
+.idea/
 
 # JSON/text databases or local output files
 db.json
