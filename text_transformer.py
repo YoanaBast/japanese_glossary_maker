@@ -75,4 +75,3 @@ class TextTransformer:
                 with open("common.json", "w", encoding="utf-8") as f:
                     json.dump(sorted(self.common), f, ensure_ascii=False, indent=2)
                     print(f"Saved {word} to common.json.")
-
